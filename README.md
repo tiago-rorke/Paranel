@@ -1,4 +1,4 @@
-##[Paranêl](http://www.tiago.co.nz/paranel.html)
+##[Parânel](http://www.tiago.co.nz/paranel.html)
 
 Interface for generating G-Code for 3D printing parametric ring designs using FDM. An experiment using the CodeThread library for processing.
 
