@@ -1,6 +1,10 @@
 ##[Paranêl](www.tiago.co.nz/paranel)
 
-Interface for generating G-Code for 3D printing parametric ring designs using FDM. An experiment using the CodeThread library for processing. 
+Interface for generating G-Code for 3D printing parametric ring designs using FDM. An experiment using the CodeThread library for processing.
+
+A quick experiment - mostly fully working but there are some bugs when using multiple sections for creating non-rotationally symmetrical forms.
+
+There are variables for carve, feedRate, extrudeRate and pathPrecision in the code, that are not yet accessible in the GUI.
 
 [CodeThread GitHub repo](https://github.com/DiatomStudio/CodeThread/)
 
